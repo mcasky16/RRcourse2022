@@ -271,5 +271,13 @@ In the section I will present some info about the Dates when the movie series we
 </tbody></table>
 
 
+### GRAPH OF VIEWS FOR EACH SEASON
+
+```{r, echo=FALSE}
+Seasons <- c(1, 2, 3, 4, 5, 6)
+Views <- c(1.54, 2.53, 3.21, 3.90, 4.29, 5.40)
+
+plot(Seasons,Views, type = "b", xlab = "TV SHOW SEASONS", ylab = "VIEWS IN MILLIONS", main = "WHITE COLLAR VIEWERSHIP PER SEASON")
+```
 
 
