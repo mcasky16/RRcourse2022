@@ -11,18 +11,264 @@ library(reticulate)
 library(chron)
 ```
 
+
 ### DESCRIPTION OF WHITE COLLAR TV SERIES
 
 **White Collar** is an American police procedural drama television series created by _Jeff Eastin_, starring _Tim DeKay_ as FBI Special Agent _Peter Burke_ and _Matt Bomer_ as _Neal Caffrey_, a highly intelligent and multi-talented con artist working as _Burke's_ criminal informant. _Willie Garson_ and _Tiffani Thiessen_ also star. The show premiered on October 23, 2009, on USA Network, and aired six complete seasons, with the final season concluding on December 18, 2014.
 
 
+
 ### USING HTML TO INSERT PICTURE
 
 
-<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vevent"><tbody><tr></tr><tr><td colspan="2" class="infobox-image"><a href="/wiki/File:White_Collar_(TV_series).png" class="image"><img alt="White Collar (TV series).png" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4d/White_Collar_%28TV_series%29.png/250px-White_Collar_%28TV_series%29.png" decoding="async" width="250" height="141" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4d/White_Collar_%28TV_series%29.png/375px-White_Collar_%28TV_series%29.png 1.5x, //upload.wikimedia.org/wikipedia/en/4/4d/White_Collar_%28TV_series%29.png 2x" data-file-width="420" data-file-height="237" /></a></td></tr>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vevent"><tbody><tr></tr><tr><td colspan="2" class="infobox-image"><a href="/wiki/File:White_Collar_(TV_series).png" class="image"><img alt="White Collar (TV series).png" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4d/White_Collar_%28TV_series%29.png/250px-White_Collar_%28TV_series%29.png" decoding="async" width="250" height="141" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4d/White_Collar_%28TV_series%29.png/375px-White_Collar_%28TV_series%29.png 1.5x, //upload.wikimedia.org/wikipedia/en/4/4d/White_Collar_%28TV_series%29.png 2x" data-file-width="420" data-file-height="237" /></a></td></tr></table>
 
 
 
+### SOME BASIC STATISTICS
+
+In the section I will present some info about the Dates when the movie series were premiered, some countries in which the movie was broadcated, the TV station that showed and also present some ratings based on results from [**Wikipedia**](https://en.wikipedia.org/wiki/White_Collar_(TV_series)). 
+
+### {.tabset}
+
+#### SEASONS PREMIERE DATES
+
+<table><tbody><tr>
+<th style="width:9%;" rowspan="2">Season
+</th>
+<th style="width:30%;" rowspan="2">Time slot (<a href="/wiki/Eastern_Time_Zone_(North_America)" class="mw-redirect" title="Eastern Time Zone (North America)">ET</a>)
+</th>
+<th style="width:7%;" rowspan="2"> No. of Ep.
+</th>
+<th colspan="2">Premiere
+</th>
+<th colspan="2">Finale
+</th></tr>
+<tr>
+<th>Date
+</th>
+<th style="width:7%; font-size:smaller; line-height:100%;">Premiere<br />Viewers<br />(in millions)
+</th>
+<th>Date
+</th>
+<th style="width:10%; font-size:smaller; line-height:100%;">Finale<br />Viewers<br />(in millions)
+</th></tr>
+<tr>
+<th><b><a href="/wiki/White_Collar_(season_1)" class="mw-redirect" title="White Collar (season 1)">1</a></b>
+</th>
+<td><small>Friday 10PM (October 23, 2009 – December 4, 2009)<br />Tuesday 10PM (January 19, 2010 – March 9, 2010)</small>
+</td>
+<th>14
+</th>
+<td style="font-size:11px;line-height:110%"><center>October&#160;23,&#160;2009<span style="display:none">&#160;(<span class="bday dtstart published updated">2009-10-23</span>)</span></center>
+</td>
+<th>5.40<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</th>
+<td style="font-size:11px;line-height:110%"><center>March&#160;9,&#160;2010<span style="display:none">&#160;(<span class="dtend">2010-03-09</span>)</span></center>
+</td>
+<th>4.04<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</th></tr>
+<tr>
+<th><b><a href="/wiki/White_Collar_(season_2)" class="mw-redirect" title="White Collar (season 2)">2</a></b>
+</th>
+<td><small>Tuesday 9PM (July 13, 2010 – September 7, 2010)<br />Tuesday 10PM (January 18, 2011 – March 8, 2011)</small>
+</td>
+<th>16
+</th>
+<td style="font-size:11px;line-height:110%"><center>July&#160;13,&#160;2010<span style="display:none">&#160;(<span class="bday dtstart published updated">2010-07-13</span>)</span></center>
+</td>
+<th>4.29<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</th>
+<td style="font-size:11px;line-height:110%"><center>March&#160;8,&#160;2011<span style="display:none">&#160;(<span class="dtend">2011-03-08</span>)</span></center>
+</td>
+<th>3.81<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</th></tr>
+<tr>
+<th><b><a href="/wiki/White_Collar_(season_3)" class="mw-redirect" title="White Collar (season 3)">3</a></b>
+</th>
+<td><small>Tuesday 9PM (June 7, 2011 – August 9, 2011)<br />Tuesday 10PM (January 17, 2012 – February 28, 2012)</small>
+</td>
+<th>16
+</th>
+<td style="font-size:11px;line-height:110%"><center>June&#160;7,&#160;2011<span style="display:none">&#160;(<span class="bday dtstart published updated">2011-06-07</span>)</span></center>
+</td>
+<th>3.90<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</th>
+<td style="font-size:11px;line-height:110%"><center>February&#160;28,&#160;2012<span style="display:none">&#160;(<span class="dtend">2012-02-28</span>)</span></center>
+</td>
+<th>2.55<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</th></tr>
+<tr>
+<th><b><a href="/wiki/White_Collar_(season_4)" class="mw-redirect" title="White Collar (season 4)">4</a></b>
+</th>
+<td><small>Tuesday 9PM (July 10, 2012 – September 18, 2012)</small><br /><small>Tuesday 10PM (January 22, 2013 – March 5, 2013)</small>
+</td>
+<th>16
+</th>
+<td style="font-size:11px;line-height:110%"><center>July&#160;10,&#160;2012<span style="display:none">&#160;(<span class="bday dtstart published updated">2012-07-10</span>)</span></center>
+</td>
+<th>3.21<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</th>
+<td style="font-size:11px;line-height:110%"><center>March&#160;5,&#160;2013<span style="display:none">&#160;(<span class="dtend">2013-03-05</span>)</span></center>
+</td>
+<th>2.36<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</th></tr>
+<tr>
+<th><b><a href="/wiki/White_Collar_(season_5)" class="mw-redirect" title="White Collar (season 5)">5</a></b>
+</th>
+<td><small>Thursday 9PM (October 17, 2013 – January 30, 2014)</small>
+</td>
+<th>13
+</th>
+<td style="font-size:11px;line-height:110%"><center>October&#160;17,&#160;2013<span style="display:none">&#160;(<span class="bday dtstart published updated">2013-10-17</span>)</span></center>
+</td>
+<th>2.53<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</th>
+<td style="font-size:11px;line-height:110%"><center>January 30, 2014</center>
+</td>
+<th>2.99<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</th></tr>
+<tr>
+<th><b><a href="/wiki/List_of_White_Collar_episodes#Season_6_(2014)" title="List of White Collar episodes">6</a></b>
+</th>
+<td><small>Thursday 9PM (November 6, 2014 – December 18, 2014)</small>
+</td>
+<th>6
+</th>
+<td style="font-size:11px;line-height:110%"><center>November 6, 2014</center>
+</td>
+<th>1.54<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</th>
+<td style="font-size:11px;line-height:110%"><center>December 18, 2014</center>
+</td>
+<th>1.86<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</th></tr></tbody></table>
+
+#### COUNTRIES PREMIERED
+
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Country
+</th>
+<th>Broadcaster(s)
+</th>
+<th>Start date
+</th>
+<th>Time slot
+</th></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><br /> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a></td>
+<td><a href="/wiki/Sky_Living" title="Sky Living">Sky Living</a><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup><br /><a href="/wiki/Alibi_(TV_channel)" title="Alibi (TV channel)">Alibi</a><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup></td>
+<td>Autumn 2011 (S1)<br />October 16, 2012 (S2 - S3)<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup><sup id="cite_ref-UKPremiere_50-0" class="reference"><a href="#cite_note-UKPremiere-50">&#91;50&#93;</a></sup></td>
+<td>S2: Tuesday 10:00pm<sup id="cite_ref-UKPremiere_50-1" class="reference"><a href="#cite_note-UKPremiere-50">&#91;50&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td><a href="/wiki/Fox_Latin_America" class="mw-redirect" title="Fox Latin America">Fox Latin America</a> (Brazil)</td>
+<td>August 5, 2010</td>
+<td>10PM Thursday
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" />&#160;</span><a href="/wiki/Mexico" title="Mexico">Mexico</a></td>
+<td><a href="/wiki/Fox_Latin_America" class="mw-redirect" title="Fox Latin America">Fox Latin America</a> (Mexico)</td>
+<td></td>
+<td>S5: 13PM Tuesdays
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td>
+<td><a href="/wiki/BTV_(Bulgaria)" title="BTV (Bulgaria)">bTV</a><br /><a href="/wiki/BTV_Cinema" title="BTV Cinema">bTV Cinema</a></td>
+<td>May 23, 2011</td>
+<td>9PM weekdays<br />8PM (from season 2)
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td><a href="/wiki/FOX_(Greece)" class="mw-redirect" title="FOX (Greece)">FOX (Greece)</a></td>
+<td>N/A</td>
+<td>N/A
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/35px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/45px-Flag_of_Cyprus.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></td>
+<td><a href="/wiki/FOX_(Greece)" class="mw-redirect" title="FOX (Greece)">FOX (Greece)</a></td>
+<td>N/A</td>
+<td>N/A
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td><a href="/wiki/Bravo_(Canada)" class="mw-redirect" title="Bravo (Canada)">Bravo</a><br /><a href="/wiki/S%C3%A9ries%2B" class="mw-redirect" title="Séries+">Séries+</a> (French dubbed)</td>
+<td></td>
+<td>9PM Wednesday
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany" title="Germany">Germany</a></td>
+<td><a href="/wiki/RTL_Television" class="mw-redirect" title="RTL Television">RTL</a> (season 1 and 2)<br /><a href="/wiki/RTL_Crime_(German_TV_channel)" title="RTL Crime (German TV channel)">RTL Crime</a> (season 3 and 4)<br /><a href="/wiki/Netflix" title="Netflix">Netflix</a> (season 5 and 6)<br /><a href="/wiki/Disney_Channel_(Germany)" class="mw-redirect" title="Disney Channel (Germany)">Disney Channel</a> (Re-run)<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup></td>
+<td>September 13, 2011</td>
+<td>11:10PM Thursday (season 2)<br />8:15PM Wednesday (season 3)<br />9:00PM Friday (season 4)<br />
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Hungary" title="Hungary">Hungary</a></td>
+<td><a href="/wiki/RTL_II_(Hungary)" title="RTL II (Hungary)">RTL II</a></td>
+<td>October 1, 2012</td>
+<td>8PM weekdays<br />9PM Sunday (from season 5)
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Japan" title="Japan">Japan</a></td>
+<td>Mystery Channel
+<p>Dlife TV TOKYO 
+</p>
+</td>
+<td>January 21, 2010　 (S1 - S5)
+<p>May 13, 2013 October 2, 2014 
+</p>
+</td>
+<td>N/A
+<p>9PM Tuesday
+</p><p>12:40AM weekdays
+</p>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" />&#160;</span><a href="/wiki/Sweden" title="Sweden">Sweden</a></td>
+<td><a href="/wiki/TV11_(Sweden)" class="mw-redirect" title="TV11 (Sweden)">TV11</a></td>
+<td>2013 (season 4)</td>
+<td>N/A
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/23px-Flag_of_Somalia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/35px-Flag_of_Somalia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/45px-Flag_of_Somalia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Somalia" title="Somalia">Somalia</a><br /><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/35px-Flag_of_Bangladesh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/46px-Flag_of_Bangladesh.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a><br /><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/35px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/45px-Flag_of_Pakistan.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></td>
+<td><a href="/wiki/Universal_TV" title="Universal TV">Universal TV</a></td>
+<td>2010</td>
+<td>11PM weekdays
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td><a href="/wiki/FOX_(Portugal)" class="mw-redirect" title="FOX (Portugal)">Fox</a> and <a href="/wiki/TVI_(Portugal)" class="mw-redirect" title="TVI (Portugal)">TVI</a></td>
+<td>2010</td>
+<td>9:30PM weekdays (until season 3)
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td><a href="/wiki/Fox_(Italy)" class="mw-redirect" title="Fox (Italy)">Fox</a> and <a href="/wiki/Italia_1" title="Italia 1">Italia 1</a></td>
+<td>2010</td>
+<td>9PM weekdays
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" />&#160;</span><a href="/wiki/Iran" title="Iran">Iran</a></td>
+<td><a href="/wiki/Farsi1" title="Farsi1">Farsi1</a></td>
+<td>2013</td>
+<td>9PM Sunday
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/35px-Flag_of_the_Philippines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/46px-Flag_of_the_Philippines.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Philippines" title="Philippines">Philippines</a></td>
+<td><a href="/wiki/Fox_Channel_Asia" class="mw-redirect" title="Fox Channel Asia">Fox Channel Asia</a> (Philippines)<br /><a href="/wiki/Jack_City_(TV_channel)" class="mw-redirect" title="Jack City (TV channel)">Jack City</a><br /><a href="/wiki/DWKC-TV" title="DWKC-TV">BEAM 31</a></td>
+<td>N/A</td>
+<td>10PM Tuesday
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/35px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/45px-Flag_of_Slovakia.svg.png 2x" data-file-width="512" data-file-height="341" />&#160;</span><a href="/wiki/Slovakia" title="Slovakia">Slovakia</a></td>
+<td><a href="/wiki/JOJ_Plus" class="mw-redirect" title="JOJ Plus">JOJ Plus</a><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup></td>
+<td>August 20, 2012<sup id="cite_ref-SKPremiere_53-0" class="reference"><a href="#cite_note-SKPremiere-53">&#91;53&#93;</a></sup></td>
+<td>10PM Monday<sup id="cite_ref-SKPremiere_53-1" class="reference"><a href="#cite_note-SKPremiere-53">&#91;53&#93;</a></sup>
+</td></tr>
+</tbody></table>
 
 
 
