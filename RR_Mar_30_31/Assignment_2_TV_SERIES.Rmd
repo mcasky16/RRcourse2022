@@ -7,13 +7,23 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(reticulate)
+library(chron)
 ```
 
-## DESCRIPTION
-
-### WHITE COLLAR TV SERIES
+### DESCRIPTION OF WHITE COLLAR TV SERIES
 
 **White Collar** is an American police procedural drama television series created by _Jeff Eastin_, starring _Tim DeKay_ as FBI Special Agent _Peter Burke_ and _Matt Bomer_ as _Neal Caffrey_, a highly intelligent and multi-talented con artist working as _Burke's_ criminal informant. _Willie Garson_ and _Tiffani Thiessen_ also star. The show premiered on October 23, 2009, on USA Network, and aired six complete seasons, with the final season concluding on December 18, 2014.
+
+
+### USING HTML TO INSERT PICTURE
+
+
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vevent"><tbody><tr></tr><tr><td colspan="2" class="infobox-image"><a href="/wiki/File:White_Collar_(TV_series).png" class="image"><img alt="White Collar (TV series).png" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4d/White_Collar_%28TV_series%29.png/250px-White_Collar_%28TV_series%29.png" decoding="async" width="250" height="141" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4d/White_Collar_%28TV_series%29.png/375px-White_Collar_%28TV_series%29.png 1.5x, //upload.wikimedia.org/wikipedia/en/4/4d/White_Collar_%28TV_series%29.png 2x" data-file-width="420" data-file-height="237" /></a></td></tr>
+
+
+
+
 
 
 
