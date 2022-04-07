@@ -1,0 +1,19 @@
+---
+title: "Assignment 2 'TV SHOW'"
+author: "Mark Asamoah"
+date: "4/7/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## DESCRIPTION
+
+### WHITE COLLAR TV SERIES
+
+**White Collar** is an American police procedural drama television series created by _Jeff Eastin_, starring _Tim DeKay_ as FBI Special Agent _Peter Burke_ and _Matt Bomer_ as _Neal Caffrey_, a highly intelligent and multi-talented con artist working as _Burke's_ criminal informant. _Willie Garson_ and _Tiffani Thiessen_ also star. The show premiered on October 23, 2009, on USA Network, and aired six complete seasons, with the final season concluding on December 18, 2014.
+
+
+
