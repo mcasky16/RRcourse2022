@@ -280,4 +280,8 @@ Views <- c(1.54, 2.53, 3.21, 3.90, 4.29, 5.40)
 plot(Seasons,Views, type = "b", xlab = "TV SHOW SEASONS", ylab = "VIEWS IN MILLIONS", main = "WHITE COLLAR VIEWERSHIP PER SEASON")
 ```
 
+#### INTERPRETATION OF GRAPH
+
+From the look of the graph, it can be seen that the viewership kept increasing from season to season. For instance from season 1 the number of views increased from 1.54 million views to 2.53 which means there was `r 2.53 - 1.54` million increase in the views.
+
 
