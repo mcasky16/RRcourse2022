@@ -1,0 +1,30 @@
+Welcome to Ubuntu 22.04 LTS (GNU/Linux 5.15.0-1003-gcp x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Sat May 14 08:55:24 UTC 2022
+
+  System load:  0.162109375       Processes:             113
+  Usage of /:   26.3% of 9.76GB   Users logged in:       0
+  Memory usage: 23%               IPv4 address for ens4: 10.182.0.2
+  Swap usage:   0%
+
+
+32 updates can be applied immediately.
+19 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+
+Last login: Thu May 12 16:12:39 2022 from 35.235.243.66
+m_asamoah@mark-instance:~$ uname -a
+Linux mark-instance 5.15.0-1003-gcp #6-Ubuntu SMP Thu Mar 31 15:55:23 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+m_asamoah@mark-instance:~$ touch text.txt
+m_asamoah@mark-instance:~$ ls -l
+total 8
+drwxrwxr-x 2 m_asamoah m_asamoah 4096 May 12 15:29 class
+-rwxr-x--- 1 m_asamoah m_asamoah    9 May 12 15:33 listdir.sh
+-rw-rw-r-- 1 m_asamoah m_asamoah    0 May  5 16:00 test.txt
+-rw-rw-r-- 1 m_asamoah m_asamoah    0 May 14 09:08 text.txt
+m_asamoah@mark-instance:~$ 
